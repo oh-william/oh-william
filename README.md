@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm William Oh 👋
 
 <!--
 **oh-william/oh-william** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m a junior at Princeton University majoring in Applied Mathematics and Computer Science. I'm interested in machine learning and bioengineering. Here you’ll find my coding projects and academic write-ups.
